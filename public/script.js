@@ -35,12 +35,6 @@
 	 <tr>
 	 <td>${k.nachname}</td>
 	 <td>${k.vorname}</td>
-	 <td>${k.strasse}</td>
-	 <td>${k.hausnummer}</td>
-	 <td>${k.plz}</td>
-	 <td>${k.ort}</td>
-	 <td>${k.alter}</td>
-	 <td>${k.telefon}</td>
 	 <td>${k.email}</td>
 	 </tr>
 	 `).join('');
