@@ -1,16 +1,24 @@
-##Beschreibung  
-Im Rahmen von WMC wurde eine Express Customer App erstell, die es  ermöglicht, Kunden zu verwalten. Diese Anwendung unterstützt grundlegende CRUD-Operationen (Create, Read, Update, Delete).
-Als Datenbak verwende ich PostgreSQL. Das Backend wird mit Express.js und JavaScript erstellt. Das Frontend wird mit HTML, CSS und JavaScript erstellt.
+# Express Customer App
 
-Bei dieser Anwendung geht es darum die Grundlagen von Express zu verstehen.
+## Beschreibung
 
+Im Rahmen von **WMC** wurde eine *Express Customer App* erstellt, die es ermöglicht, **Kunden zu verwalten**.  
+Diese Anwendung unterstützt grundlegende **CRUD-Operationen** (Create, Read, Update, Delete).  
 
-#Projektstruktur
+- **Datenbank**: PostgreSQL  
+- **Backend**: Express.js (Node.js)  
+- **Frontend**: HTML, CSS, JavaScript  
 
+Ziel der Anwendung ist es, die **Grundlagen von Express** zu verstehen und praktisch umzusetzen.
+
+---
+
+## Projektstruktur
+```
 customer-app/
-│
-├── public/               # Hier kommt später dein HTML/CSS rein
-│
-├── server.js             # Hauptdatei für den Server
-├── package.json          # Projekt-Konfiguration
-├── package-lock.json     # Projekt-Konfiguration
+├── public/             # HTML/CSS und Client-JavaScript
+├── server.js           # Hauptdatei für den Express-Server
+├── package.json        # Projekt-Konfiguration
+├── package-lock.json   # Automatisch generierte Paket-Versionen
+```
+
