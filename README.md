@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Im Rahmen von **WMC** wurde eine *Express Customer App* erstellt, die es ermöglicht, **Kunden zu verwalten**.  
+Im Rahmen von **WMC** wurde eine *Express Customer App* erstellt, die es ermöglicht **Kunden zu verwalten**.  
 Diese Anwendung unterstützt grundlegende **CRUD-Operationen** (Create, Read, Update, Delete).  
 
 - **Datenbank**: PostgreSQL  
